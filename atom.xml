@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://1025cc.github.io</id>
+    <title>cccccci</title>
+    <updated>2023-05-10T06:14:55.848Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://1025cc.github.io"/>
+    <link rel="self" href="https://1025cc.github.io/atom.xml"/>
+    <subtitle>cc blog</subtitle>
+    <logo>https://1025cc.github.io/images/avatar.png</logo>
+    <icon>https://1025cc.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, cccccci</rights>
+    <entry>
+        <title type="html"><![CDATA[Group Project-AI Fitness Coach]]></title>
+        <id>https://1025cc.github.io/post/group-project-ai-fitness-coach/</id>
+        <link href="https://1025cc.github.io/post/group-project-ai-fitness-coach/">
+        </link>
+        <updated>2023-05-10T05:05:57.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="needfinding-brainstorming">Needfinding - Brainstorming</h1>
+<figure data-type="image" tabindex="1"><img src="https://1025cc.github.io/post-images/1683463494856.png" alt="" loading="lazy"></figure>
+<p>We brainstormed around the topic of &quot;<strong>Human Need in the Post-Pandemic Era</strong>”, and organized them into four broad areas: psychological, economic, technological and physical. Ultimately we decided to build our project around providing professional guidance to start workout.</p>
+<h1 id="pov">POV</h1>
+<figure data-type="image" tabindex="2"><img src="https://1025cc.github.io/post-images/1683463524125.png" alt="" loading="lazy"></figure>
+<h1 id="questionaire">Questionaire</h1>
+<figure data-type="image" tabindex="3"><img src="https://1025cc.github.io/post-images/1683464271182.png" alt="" loading="lazy"></figure>
+<p>In order to dig out the needs of College Students for exercise after Covid-19, we made a questionnaire from the following aspects:</p>
+<ul>
+<li>Investigating the Shift in Health Concerns of College Students Before and After COVID-19</li>
+<li>Examining Changes in Exercise Habits Among College Students Before and After COVID-19</li>
+<li>Identifying Drawbacks of Current Exercise Apps as Perceived by College Students</li>
+<li>Exploring College Students' Expectations of Exercise App Features and Functions</li>
+<li>Assessing College Students' Likelihood of Adopting an AI-Powered Exercise App</li>
+</ul>
+<h1 id="storyboards">Storyboards</h1>
+<figure data-type="image" tabindex="4"><img src="https://1025cc.github.io/post-images/1683464211029.png" alt="" loading="lazy"></figure>
+<p>There is a college student who lives in the dormitory, and has just recovered from Covid. The problem is that she don't know where to begin. The overwhelming amount of information on the internet can be intimidating.This student can chat with an AI-based chatbot within a fitness app for more personalized workout plans based on her own situation.</p>
+<figure data-type="image" tabindex="5"><img src="https://1025cc.github.io/post-images/1683464231577.png" alt="" loading="lazy"></figure>
+<p>This student wants to exercise scientifically and receive professional guidance but is concerned about COVID-19 transmission in crowded gyms. She can use the app to monitor her movement through the camera, then the AI fitness coach can provide personalized exercise guidance and real-time feedback on performance.</p>
+<h1 id="speed-dating">Speed Dating</h1>
+<figure data-type="image" tabindex="6"><img src="https://1025cc.github.io/post-images/1683464242471.png" alt="" loading="lazy"></figure>
+<h1 id="final-idea">Final Idea</h1>
+<figure data-type="image" tabindex="7"><img src="https://1025cc.github.io/post-images/1683464250120.png" alt="" loading="lazy"></figure>
+<p>According to the feedbacks and suggestions from the speed dating, here is our final idea which combines both AI instructor and AI planner features.</p>
+<h1 id="video-prototype">Video Prototype</h1>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vNrDdV7tloU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen = "true"></iframe>
+<h1 id="what-i-have-done">What I have done</h1>
+<h3 id="phase-i">Phase I</h3>
+<p>During the needfinding stage, I participated the brainstorming and provided some ideas about psychological problems caused by Covid-19. After determining the project direction is about fitness, I proposed suggestions about the use of the questionnaire. Our questionnaire ultimately focused on two objectives: need validation and deeper needfinding. I also participated in the creation of the questionnaire by providing several questions.</p>
+<p>In addition, I had a speed dating with my friends of different fitness levels, and got many positive feedbacks about our storyboards. I designed our final idea by combining their suggestions and our discussions.</p>
+<h3 id="phase-ii">Phase II</h3>
+<p>First, I participated in the selection of the specified user scenario. Then, I was involved in script design, scene selection and story shooting as the main character of the video. Finally, I presented some takeaways from our completed features and proposed insights about future work.</p>
+<h1 id="reflection">Reflection</h1>
+<p>In the process of completing this project, we always put the User-Centered Design throughout in the first place, which gave me a deeper understanding of it. For example, in the needfinding phase, we can obtain more specific requirements through interaction with users; in the prototyping phase, we can iterate and optimize the design through user feedback. Let real users test our prototypes to capture points in the user experience that can be improved.</p>
+<p>In addition, I have gained a deeper and more intuitive understanding of the concepts and application of the Gestalt Principles that I have learned in class.</p>
+<p>As for the lessons, managing deadlines and resources is a challenge for us, especially when faced with multiple possible scenarios. We need to prioritize features based on user needs, project goals, and technical feasibility at the outset, while paying attention to team member communication and avoiding unclear task delineation.</p>
+]]></content>
+    </entry>
+</feed>
